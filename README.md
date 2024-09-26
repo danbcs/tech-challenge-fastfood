@@ -4,11 +4,8 @@ Nome da equipe: Team 15
 
 ### Contato dos participantes do projeto: 
 
-- Discord: Felipe Carvalho - RM357341 / @ifelipedev
-- WhatsApp: (19) 99204-5958 (Felipe Carvalho)
-
-
-- Discord: Guilherme Meireles - RM357216 / @guilherme100
+- Discord: Daniel Castro - RM357341 / @danbcs
+- dcastro.infor@gmail.com
 
 ### Descrição
 
